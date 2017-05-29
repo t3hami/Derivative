@@ -1,0 +1,5 @@
+C:\Users\Azeemi\documents\visual studio 2010\Projects\Derivative\Derivative\bin\Release\Derivative.exe
+C:\Users\Azeemi\documents\visual studio 2010\Projects\Derivative\Derivative\bin\Release\Derivative.pdb
+C:\Users\Azeemi\documents\visual studio 2010\Projects\Derivative\Derivative\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Azeemi\documents\visual studio 2010\Projects\Derivative\Derivative\obj\x86\Release\Derivative.exe
+C:\Users\Azeemi\documents\visual studio 2010\Projects\Derivative\Derivative\obj\x86\Release\Derivative.pdb

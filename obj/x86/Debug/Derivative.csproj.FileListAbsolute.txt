@@ -1,0 +1,10 @@
+C:\Users\Azeemi\AppData\Local\Temporary Projects\Derivative\bin\Debug\Derivative.exe
+C:\Users\Azeemi\AppData\Local\Temporary Projects\Derivative\bin\Debug\Derivative.pdb
+C:\Users\Azeemi\AppData\Local\Temporary Projects\Derivative\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Azeemi\AppData\Local\Temporary Projects\Derivative\obj\x86\Debug\Derivative.exe
+C:\Users\Azeemi\AppData\Local\Temporary Projects\Derivative\obj\x86\Debug\Derivative.pdb
+C:\Users\Azeemi\documents\visual studio 2010\Projects\Derivative\Derivative\obj\x86\Debug\Derivative.exe
+C:\Users\Azeemi\documents\visual studio 2010\Projects\Derivative\Derivative\obj\x86\Debug\Derivative.pdb
+C:\Users\Azeemi\documents\visual studio 2010\Projects\Derivative\Derivative\bin\Debug\Derivative.exe
+C:\Users\Azeemi\documents\visual studio 2010\Projects\Derivative\Derivative\bin\Debug\Derivative.pdb
+C:\Users\Azeemi\documents\visual studio 2010\Projects\Derivative\Derivative\obj\x86\Debug\ResolveAssemblyReference.cache
